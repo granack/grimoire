@@ -1,4 +1,4 @@
-# Grimoire
+# Grimoire (a fork of Grimoire as yet unchanged)
 
 Grimoire is a mobile-friendly 5e spellbook that organizes spell lists by class and level.
 
